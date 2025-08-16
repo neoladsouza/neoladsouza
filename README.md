@@ -30,6 +30,7 @@ I’m a junior studying Computer Science and Geospatial Data Science at the Univ
 
 ## Ask me about...
 
+- My favorite color! 🔍
 - My trip to Barcelona! 🌅
 - What I'm currently reading! 📖
 - My personal website 🪞
