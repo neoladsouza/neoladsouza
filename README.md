@@ -1,12 +1,12 @@
 ![United Airlines Boeing 787 SAF-branded](https://github.com/neoladsouza/neoladsouza/blob/main/Header_Version_SAF_787.jpg)
 
-# I'm Neola, a bookworm who loves to code, fly, and map 👋
+# Meet Neola, a bookworm who loves to code, fly, and map 👋
 
 I’m a junior studying Computer Science and Geospatial Data Science at the University of Maryland, College Park! I'm passionate about putting humans (that's you!) at the forefront of design and technology.
 
 🧭 [My LinkedIn](https://www.linkedin.com/in/nldsouza/) | 📫 neola.laurend@gmail.com 
 
-## Projects
+## My Projects
 
 - **@ United Airlines ✈️**
     - A reusable workflow to run unit tests on our production code each day and send developers a customized report
@@ -17,7 +17,7 @@ I’m a junior studying Computer Science and Geospatial Data Science at the Univ
 - **@ University of Maryland Libraries 📚**
     - Django IP Manager web application
 
-## Technical Skills
+## My Technical Skills
 
 - **Programming Languages & Frameworks:** Java, C, C#, .NET, Python, Django, JavaScript, React, OCaml, Rust, Assembly, HTML, CSS, R
 - **Tools:** Git, GitHub Actions, ArcGIS Pro, ArcGIS Online, LangGraph, LangFlow, MCP, MySQL, MongoDB, Adobe Photoshop
