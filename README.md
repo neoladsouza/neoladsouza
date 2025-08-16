@@ -2,7 +2,9 @@
 
 # Meet Neola, a bookworm who loves to code, fly, and map 👋
 
-I’m a junior studying Computer Science and Geospatial Data Science at the University of Maryland, College Park! I'm passionate about putting humans (that's you!) at the forefront of design and technology.
+Would you take a look at that spectacular United Airlines Boeing 787 Dreamliner flying on sustainable aviation fuel? 
+
+Anyway, I’m a junior studying Computer Science and Geospatial Data Science at the University of Maryland, College Park! I'm passionate about putting humans (that's you!) at the forefront of design and technology.
 
 🧭 [My LinkedIn](https://www.linkedin.com/in/nldsouza/) | 📫 neola.laurend@gmail.com 
 
