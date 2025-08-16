@@ -23,7 +23,7 @@ Now back to me! I’m a junior studying Computer Science and Geospatial Data Sci
 - A [fact sheet](https://github.com/neoladsouza/cattle-health-fact-sheet/blob/main/Cattle%20Health%20Fact%20Sheet.pdf) on how climate change has impacted American cattle health 🐄
     - Used the R programming language to clean, process, and visualize data
 - A [research paper](https://github.com/neoladsouza/tea-research-paper/blob/main/Neola%20Dsouza%20-%20Individual%20Research%20Paper.pdf) on how variable temperature and precipitation affect tea leaf production in Bangladesh, India, and Sri Lanka 🍵
-    - Used R to create linear regression models and plot data statistically and visually
+    - In addition to the above skills, used R to create linear regression models
 
 ## My Technical Skills
 
