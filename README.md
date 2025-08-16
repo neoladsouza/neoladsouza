@@ -19,7 +19,7 @@ I’m a junior studying Computer Science and Geospatial Data Science at the Univ
 **@ University of Maryland 🐢**
 - An interactive ArcGIS Online [dashboard](https://uofmd.maps.arcgis.com/apps/dashboards/56e54674e3f346e4b4c1649de2c0c595) with over 100+ student-submitted natural disasters 🌎
 - A [fact sheet](https://github.com/neoladsouza/cattle-health-fact-sheet/blob/main/Cattle%20Health%20Fact%20Sheet.pdf) on how climate change has impacted American cattle health 🐄
-- A [research paper](https://github.com/neoladsouza/tea-research-paper/blob/main/Neola%20Dsouza%20-%20Individual%20Research%20Paper.pdf) on how variable temperature and precipitation rates affect tea leaf production in Bangladesh, India, and Sri Lanka 🍵
+- A [research paper](https://github.com/neoladsouza/tea-research-paper/blob/main/Neola%20Dsouza%20-%20Individual%20Research%20Paper.pdf) on how variable temperature and precipitation affect tea leaf production in Bangladesh, India, and Sri Lanka 🍵
 
 ## My Technical Skills
 
