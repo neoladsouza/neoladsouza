@@ -16,7 +16,7 @@ Now back to me! I’m a junior studying Computer Science and Geospatial Data Sci
 - C# .NET application to ingest records from a REST API and perform automated CRUD operations to a MySQL database
       
 **@ University of Maryland Libraries 📚**
-- Django IP Manager web application (view [my fork](https://github.com/neoladsouza/ipmanager-django) and the [entire app](https://github.com/umd-lib/ipmanager-django))🌐
+- IP Manager web application migration from Ruby on Rails to Django (view [my fork](https://github.com/neoladsouza/ipmanager-django) and the [entire app](https://github.com/umd-lib/ipmanager-django))🌐
       
 **@ University of Maryland 🐢**
 - An interactive ArcGIS Online [dashboard](https://uofmd.maps.arcgis.com/apps/dashboards/56e54674e3f346e4b4c1649de2c0c595) with over 100+ student-submitted natural disasters 🌎
