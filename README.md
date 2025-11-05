@@ -35,9 +35,4 @@ Now back to me! I’m a junior studying Computer Science and Geospatial Data Sci
 ## Ask me about...
 
 - My favorite color! 🔍
-- My trip to Barcelona! 🌅
 - What I'm currently reading! 📖
-- My personal website 🪞
-- Me-Mobile, an inventory management system 📱
-- Trunk, a creative writing platform ✍️
-- A web map project, something to do with Adobe Photoshop's ArcGIS Maps for Adobe Creative Cloud extension 🗺️
