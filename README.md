@@ -23,7 +23,7 @@ Hi! I’m a junior studying Computer Science and Geospatial Data Science at the 
 
 ## My Technical Skills
 
-- **Programming Languages & Frameworks:** Java, C, C#, .NET, Python, Django, JavaScript, React, OCaml, Rust, Assembly, HTML, CSS, R
-- **Tools:** Git, GitHub Actions, ArcGIS Pro, ArcGIS Online, LangGraph, LangFlow, MCP, MySQL, MongoDB, Adobe Photoshop
+- **Programming Languages & Frameworks:** Java, C, C#, .NET, Python, Django, JavaScript, React, HTML, CSS, R
+- **Tools:** Git, GitHub Actions, ArcGIS Pro, ArcGIS Online, LangGraph, LangFlow, MCP, MySQL, MongoDB
 - **AWS Cloud:** C# CDK, JavaScript SDK, SNS, S3, Route 53, API Gateway, Lambda
 - **Certifications:** AWS AI Practitioner
