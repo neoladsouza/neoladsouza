@@ -1,4 +1,4 @@
-Hi! I’m a junior studying Computer Science and Geospatial Data Science at the University of Maryland, College Park.
+Hi! I’m a junior  at the University of Maryland, College Park, studying Computer Science and Geospatial Data Science.
 
 🪞 [My Personal Website](https://neoladsouza.github.io/) | 🧭 [My LinkedIn](https://www.linkedin.com/in/nldsouza/) | 📫 neola.laurend@gmail.com
 
