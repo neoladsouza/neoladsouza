@@ -1,5 +1,3 @@
-# Meet Neola 👋
-
 Hi! I’m a junior studying Computer Science and Geospatial Data Science at the University of Maryland, College Park.
 
 🪞 [My Personal Website](https://neoladsouza.github.io/) | 🧭 [My LinkedIn](https://www.linkedin.com/in/nldsouza/) | 📫 neola.laurend@gmail.com
