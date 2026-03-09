@@ -1,7 +1,5 @@
 Hi! I’m a third-year undegraduate at the University of Maryland, College Park, studying Computer Science and Geospatial Data Science.
 
-🪞 [My Personal Website](https://neoladsouza.github.io/) | 🧭 [My LinkedIn](https://www.linkedin.com/in/nldsouza/) | 📫 neola.laurend@gmail.com
-
 ## My Projects
 
 **@ United Airlines ✈️**
