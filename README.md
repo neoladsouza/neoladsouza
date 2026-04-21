@@ -12,15 +12,15 @@ I’m studying Computer Science and Geospatial Data Science, and dabbling in con
 
 ## My Past Projects
 
-### **✈️ @ United Airlines**
+### **✈️ United Airlines**
 - Reusable workflow to run unit tests on our production code each day and send developers a customized report
 - GitHub Actions to parse NUnit tests + publish messages via AWS SNS + send Microsoft Teams messages + send emails via SMTP
 - C# .NET application to ingest records from a REST API and perform automated CRUD operations to a MySQL database
       
-### **📚 @ University of Maryland Libraries**
+### **📚 University of Maryland Libraries**
 - 🌐 IP Manager web application migration from Ruby/Rub-on-Rails to Python/Django ([my fork](https://github.com/neoladsouza/ipmanager-django) and the [entire app](https://github.com/umd-lib/ipmanager-django))
       
-### **🐢 @ University of Maryland, College Park**
+### **🐢 University of Maryland, College Park**
 - 🌎 An interactive ArcGIS Online [dashboard](https://uofmd.maps.arcgis.com/apps/dashboards/56e54674e3f346e4b4c1649de2c0c595) with over 100+ student-submitted natural disasters
 - 🐄 A [fact sheet](https://github.com/neoladsouza/cattle-health-fact-sheet/blob/main/Cattle%20Health%20Fact%20Sheet.pdf) on effects of climate change on American cattle health
     - Cleaned, processed, and visualized data ([code](https://github.com/neoladsouza/cattle-health-fact-sheet/blob/main/Neola_Dsouza_fact_sheet_code.R))
