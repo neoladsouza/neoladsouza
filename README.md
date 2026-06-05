@@ -1,5 +1,3 @@
-I study computer science, geospatial data science, consulting, and operations science. 
-
 I work at MongoDB. 🥬😌🫸
 
 - **Programming Languages & Frameworks:** Java, C, Rust, C#, .NET, Python, Django, JavaScript, HTML, CSS, R
