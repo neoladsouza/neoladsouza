@@ -2,7 +2,9 @@ Hi!
 
 I’m studying Computer Science and Geospatial Data Science, and dabbling in consulting and operations research. 
 
-## My Current Projects
+## Currently, I'm working at MongoDB.
+
+## My Recently-Finished Projects
 
 ### **☕ Coffee @ UMD**
 - Leading a team of developers and designers to create a website for UMD's largest on-campus social club.
