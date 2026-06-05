@@ -1,4 +1,7 @@
-I work at MongoDB.  🥬 😌🫸
+# 🥬 😌🫸
+
+
+I work at MongoDB.
 
 **My Languages:** 
 - Java, C, Rust, C#, .NET (❤️)
